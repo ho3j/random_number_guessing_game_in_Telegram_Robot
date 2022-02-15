@@ -42,7 +42,7 @@ def write_operation(x):
     
 
 ######################### START #########################
-TOKEN = '5149849190:AAFsEAN8evbyXbCquzLj5mAUVqFCNXXXBts'
+TOKEN = 'your token'
 
 # TOKEN = input(" Enter Your token bot :") 
       # define the access token
